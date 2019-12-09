@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"futility","c":"HelloWorld","l":"HelloWorld()","url":"%3Cinit%3E()"},{"p":"futility","c":"HelloWorld","l":"printFun()"},{"p":"futility","c":"HelloWorld","l":"printHi()"}]
